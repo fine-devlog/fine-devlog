@@ -9,8 +9,15 @@
 
 - 🎓 I'm a first-year Computer Science student.
 - 🌱 I'm currently learning the basics of Programming & Cybersecurity!
+  
+## ⚙️ My Development Style:
+- System Design & Logic: Thoughtfully crafted by myself.
+- Code Implementation: Handled efficiently using AI tools.
+
 <br>
 
+---
+💡 設計（ロジックや仕様）を自分で徹底的に考え、AIを強力なアシスタントとして使って開発をしています！
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
