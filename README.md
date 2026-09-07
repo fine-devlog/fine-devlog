@@ -11,6 +11,7 @@
 - 🌱 **Learning:** Basics of Programming & Cybersecurity.
 - ✍️ **Blog:** Writing about my development journey on[Zenn](https://zenn.dev/fine_dev).
 <br>(日々の開発ログや、セキュリティ交流会の体験談などを発信しています！)
+※知り合いはzennを見ないでください😑
 
 ## 🚀 Featured Project
 - 📊 **[corporate-financial-analysis](https://github.com/fine-devlog/corporate-financial-analysis)**
